@@ -8,5 +8,5 @@ require (
 	go.beyondstorage.io/credential v1.0.0
 	go.beyondstorage.io/v5 v5.0.0
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	google.golang.org/api v0.58.0
+	google.golang.org/api v0.60.0
 )
